@@ -1,4 +1,4 @@
-# Object-oriented-programming
+# 📦 Object-oriented-programming
 ## Objectives
 - To demonstrate the differences between traditional imperative design and object-oriented design.
 - To explain class structures as fundamental, modular building blocks.
